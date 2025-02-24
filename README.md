@@ -41,6 +41,10 @@ LoginMate/
 ├── README.md
 ```
 
+## 🌐 Live Demo
+
+Check out the live deployment: [LoginMate](https://loginmate.onrender.com)
+
 ## 🎯 Installation & Setup
 
 1. **Clone the repository**
@@ -57,12 +61,19 @@ LoginMate/
    npm start
    ```
 
+## 🖼️ Screenshots
+
+&#x20;*(Replace with actual screenshot)*
 
 ## 🚧 Future Enhancements
 
 - 🌍 Add backend authentication (Node.js, Firebase, etc.)
 - 🔐 Implement JWT-based authentication
 - 🎨 Improve UI with animations
+
+## 🌍 Live Demo
+
+Check out the live deployment: [LoginMate](https://loginmate.onrender.com)
 
 ## 📜 License
 
@@ -76,3 +87,4 @@ This project is open-source under the MIT License.
 📧 sandeep.ganji07@gmail.com
 
 💡 **Contributions are welcome!** Feel free to fork and improve the project. 😊
+
